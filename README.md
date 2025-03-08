@@ -1,4 +1,4 @@
-<h1>Hello, I'm Darren Christian! <br/><a href="https://www.linkedin.com/in/darren-christian-t/">Creator of Plugist</a>
+<h1>Hello, I'm Darren Christian! <br/><a href="https://www.linkedin.com/in/darren-christian-t/">Creator of Plugist | Frontend Engineer (2.5+ YOE)</a>
 
 <h2>🤔 Who am I?</h2>
 

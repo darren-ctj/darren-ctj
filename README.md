@@ -1,11 +1,11 @@
-<h1>Hello, I'm Darren Christian! <br/><a href="https://www.linkedin.com/in/darren-christian-t/">Creator of Plugist | Frontend Engineer (2.5+ YOE)</a>
+<h1>Hello, I'm Darren Christian! <br/><a href="https://www.linkedin.com/in/darren-christian-t/">Founder of Plugist | Frontend Engineer (2.5+ YOE)</a>
 
 
 <h2>🤔 What is Plugist?</h2>
 
 <img src="https://github.com/darren-ctj/plugist-assets/blob/main/Plugist%20-%20NPM%20Quick%20Preview.gif?raw=true" width="800">
 
-<code>@plugist/react</code> is a developer-first tool that lets you **click any element in your React app, open its JSX code in a drawer, and edit it live**, with changes instantly updating your codebase. It also provides a **Component Hierarchy Trace**, making it easy to see where each component is used. Still want to edit code from code editor? Just **double-click an element**, and Plugist will **instantly open the related file in your code editor** (currently supporting VS Code), with the relevant code in focus. 
+<code>@plugist/react</code> is a React productivity tool that lets you **click on an element at your React app, instantly locate its code, and edit it directly in a side panel,** with changes reflected at your local source code. It also provides a **Component Hierarchy Trace**, making it easy to see where each component is used. Still want to edit code from code editor? Just **double-click an element**, and Plugist will **instantly open the related file in your code editor** (currently supporting VS Code), with the relevant code in focus. 
 
 - Youtube Quick Setup Guide: <a href="https://youtu.be/mIgzs3mYTsw?si=-jWKK6FDn2C2cqVA">Click here</a>
 

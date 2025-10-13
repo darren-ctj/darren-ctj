@@ -1,26 +1,18 @@
-<h1>Hello, I'm Darren Christian! <br/><a href="https://www.linkedin.com/in/darren-christian-t/">Founder of Plugist | Frontend Engineer (2.5+ YOE)</a>
+<h1>Hello, I'm Darren Christian! <br/><a href="https://www.linkedin.com/in/darren-christian-t/">Founder of Prompus AI | Frontend Engineer (3+ YOE)</a>
 
 
-<h2>🤔 What is Plugist?</h2>
+<h2>What is Prompus AI?</h2>
 
 <img src="https://github.com/darren-ctj/plugist-assets/blob/main/Plugist%20-%20NPM%20Quick%20Preview.gif?raw=true" width="800">
 
-<code>@plugist/react</code> is a React productivity tool that lets you **click on an element at your React app, instantly locate its code, and edit it directly in a side panel,** with changes reflected at your local source code. It also provides a **Component Hierarchy Trace**, making it easy to see where each component is used. Still want to edit code from code editor? Just **double-click an element**, and Plugist will **instantly open the related file in your code editor** (currently supporting VS Code), with the relevant code in focus. 
-
-- Youtube Quick Setup Guide: <a href="https://youtu.be/mIgzs3mYTsw?si=-jWKK6FDn2C2cqVA">Click here</a>
-
-- NPM Documentation: <a href="https://npmjs.com/package/@plugist/react">Click here</a>
+Prompus AI is an AI agentic app that design beautiful UI only by prompts.
 
 
-<h2>🤔 Who am I?</h2>
+<h2>Who am I?</h2>
 
-Up to <b>2.5 years of real work experience</b> and <b>participation up to 12 business projects.</b> Besides that, also created "Plugist", a development
-tool that enables frontend developers to locate and edit code directly
-from the browser. This tool increases development speed, reduces
-context switching between the browser and code editor, etc
+Up to <b>3 years of real work experience</b> and <b>participation up to 12 React.js/Next.js projects.</b>
 
-
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>Software Development Projects:</h2>
 
 - <b>Plugist</b> <a href="https://npmjs.com/package/@plugist/react">( Click here to see )</a>
 

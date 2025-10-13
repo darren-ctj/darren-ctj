@@ -3,8 +3,6 @@
 
 <h2>What is Prompus AI?</h2>
 
-<img src="https://github.com/darren-ctj/plugist-assets/blob/main/Plugist%20-%20NPM%20Quick%20Preview.gif?raw=true" width="800">
-
 Prompus AI is an AI agentic app that design beautiful UI only by prompts.
 
 

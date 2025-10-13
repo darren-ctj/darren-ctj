@@ -10,7 +10,7 @@ Prompus AI is an AI agentic app that design beautiful UI only by prompts.
 
 <h2>Who am I?</h2>
 
-Up to <b>3 years of real work experience</b> and <b>participation up to 12 React.js/Next.js projects.</b>
+Up to <b>3 years of real work experience</b> and <b>participation up to 12 React.js / Next.js projects.</b>
 
 <h2>Software Development Projects:</h2>
 

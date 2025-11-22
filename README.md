@@ -1,14 +1,8 @@
-<h1>Hello, I'm Darren Christian! <br/><a href="https://www.linkedin.com/in/darren-christian-t/">Founder of Prompus AI | Frontend Engineer (3+ YOE)</a>
-
-
-<h2>What is Prompus AI?</h2>
-
-Prompus AI is an AI agentic app that design beautiful UI only by prompts.
-
+<h1>Hello, I'm Darren Christian! <br/><a href="https://www.linkedin.com/in/darren-christian-t/">Founder of Nofera Studio | Software Engineer (3+ YOE)</a>
 
 <h2>Who am I?</h2>
 
-A frontend engineer with up to <b>3+ years of real work experience</b> and <b>participation up to 12+ React.js / Next.js projects.</b>
+Software engineer with up to <b>3+ years of real work experience</b> and <b>participation up to 12+ React.js / Next.js projects.</b>
 
 <h2>Software Development Projects:</h2>
 

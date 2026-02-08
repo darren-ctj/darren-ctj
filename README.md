@@ -1,12 +1,10 @@
-<h1>Hello, I'm Darren Christian! <br/><a href="https://www.linkedin.com/in/darren-christian-t/">Founder of Nofera Studio | Software Engineer (3+ YOE)</a>
+<h1>Hello, I'm Darren Christian! <br/><a href="https://www.linkedin.com/in/darren-christian-t/">Software Developer (3+ YOE)</a>
 
 <h2>Who am I?</h2>
 
-Software engineer with up to <b>3+ years of real work experience</b> and <b>participation up to 12+ React.js / Next.js projects.</b>
+Software developer with up to <b>3+ years of real work experience</b> and <b>participation up to 20+ React.js / Next.js projects.</b>
 
 <h2>Software Development Projects:</h2>
-
-- <b>Plugist</b> <a href="https://npmjs.com/package/@plugist/react">( Click here to see )</a>
 
 - <b>D~Wifi</b> <a href="https://portal.dwifi.id/">( Click here to see )</a>
 

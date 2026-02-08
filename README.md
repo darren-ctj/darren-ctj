@@ -1,8 +1,8 @@
-<h1>Hello, I'm Darren Christian! <br/><a href="https://www.linkedin.com/in/darren-christian-t/">Software Developer (3+ YOE)</a>
+<h1>Hello, I'm Darren Christian! <br/><a href="https://www.linkedin.com/in/darren-christian-t/">Mid-level Software Developer (3+ YOE)</a>
 
 <h2>Who am I?</h2>
 
-Software developer with up to <b>3+ years of real work experience</b> and <b>participation up to 20+ React.js / Next.js projects.</b>
+A mid-level software developer with up to <b>3+ years of real work experience</b> and <b>participation up to 20+ React.js / Next.js projects.</b>
 
 <h2>Software Development Projects:</h2>
 

@@ -1,55 +1,138 @@
-<h1>Hello, I'm Darren Christian! <br/><a href="https://www.linkedin.com/in/darren-christian-t/">Frontend Developer | 3.5+ Years of Experience</a>
+# Darren Christian
 
-<h2>Who am I?</h2>
+### Frontend Developer | 3.5+ Years of Experience | React.js • Next.js • TypeScript
 
-A mid-level software developer with up to <b>3+ years of real work experience</b> and <b>participation up to 20+ React.js / Next.js projects.</b>
+Phone: +62 881-0271-63631
 
-<h2>Software Development Projects:</h2>
+Email: <darrenct.dev@gmail.com>
 
-- <b>D~Wifi</b> <a href="https://portal.dwifi.id/">( Click here to see )</a>
+LinkedIn: <https://linkedin.com/in/darren-christian-t>
 
-- <b>Kontenbase No-code App Builder</b> <a href="https://kontenbase.com/">( Click here to see )</a>
-  
-- <b>Dumbways Learning Management System</b> <a href="https://dumbways.id/">( Click here to see )</a>
+GitHub: <https://github.com/darren-ctj>
 
-- <b>Inilah.com News Website</b> <a href="https://inilah.com/">( Click here to see )</a>
-    
-- <b>Jobfornesia Landing Page</b> <a href="https://jobfornesia-v2-www.vercel.app/">( Click here to see )</a>
+Location: Surabaya, Indonesia
 
-<h2>📱 Proficient at:</h2>
+---
 
-<div>
-  <p>Frontend Frameworks & Languages:</p>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Next" alt="Next" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+## PROFESSIONAL SUMMARY
 
-  <p>Styling Frameworks & Languages:</p>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="TailwindCSS" alt="TailwindCSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+**Frontend Developer with 3.5+ years of experience** building scalable web applications using **React.js, Next.js, TypeScript** and modern frontend technologies. **Contributed to 20+ software projects**, **developed 75+ pages**, **integrated 150+ GraphQL and REST APIs**, **created 27+ automated end-to-end (E2E) tests** and **delivered applications supporting 1,000+ enterprise customers**. Recognized for building performant web applications, creating responsive UI, maintaining scalable frontend architecture, and collaborating across engineering teams to deliver reliable software that supports business growth.
 
-  <p>State Managements:</p>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
+---
 
-  <p>Backend Frameworks & Database:</p>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="ExpressJS"  alt="ExpressJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;  
-  
-  <p>Others:</p>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git"  alt="Git" width="40" height="40"/>&nbsp; 
-</div>
+## WORK EXPERIENCE
 
+### Frontend Developer – React.js
 
-<h2> 🤳 Connect with me:</h2>
+**PT. Dutakom Wibawa Putra (D-NET)**
 
-Phone Number: +62 881027163631
-</br>
-Email: <a href="darrenct.dev@gmail.com">darrenct.dev@gmail.com</a>
-</br>
-LinkedIn: <a href="https://www.linkedin.com/in/darren-christian-t/"> https://www.linkedin.com/in/darren-christian-t/</a>
+Surabaya, Indonesia (Onsite)
+
+_May 2024 – Present_
+
+- **Delivered frontend solutions across 12 production web applications** including customer-facing platforms, internal business systems, and administrative dashboards for an enterprise internet service provider.
+
+- **Developed 75+ responsive pages** across multiple production applications, delivering consistent and maintainable user experiences through **responsive design**, **modular and reusable component architecture**, and **a shared design system**.
+
+- **Integrated 150+ GraphQL and REST APIs** across multiple production applications, delivering responsive and consistent data experiences through **client-side caching**, **efficient data retrieval**, and **robust loading state management**.
+
+- **Developed customer-facing platforms supporting 1000+ enterprise customers**, delivering responsive user experiences through **React rendering optimization**, **bundle optimization**, and **efficient event handling** using memoization, code splitting, lazy loading, and debouncing.
+
+- **Designed and developed a full-stack AI testing platform featuring an intelligent AI assistant**, automating test creation, execution, and tracking workflows while generating **15+ automated test scripts** through **AI agent architecture**, **agent orchestration**, **context engineering**, **guardrails**, **LLM integration**, **prompt engineering**, and **tool calling**.
+  (optional, if AI / backend / full stack experience is required)
+
+- **Developed an MCP (Model Context Protocol) server** to enable interaction between **Antigravity** and the AI testing platform, while **integrating several GitLab API** to analyze project codebases.
+  (optional, if AI / backend / full stack experience is required)
+
+- **Developed 10+ automated end-to-end tests** that reduced repetitive manual testing efforts and improved regression confidence through **test automation**, **maintainable test architecture**, and **reusable test utilities** using **Playwright**.
+  (optional, if testing experience is required)
+
+- **Collaborated with 18+ cross-functional team members** and **mentored 3 frontend interns**.
+
+---
+
+### Frontend Developer – Next.js
+
+**PT. DumbWays Indonesia Teknologi**
+
+Depok, Indonesia (Hybrid)
+
+_May 2023 – May 2024_
+
+- **Delivered frontend solutions across 6 production web applications** in the education, healthcare, media, and recruitment industries.
+
+- **Delivered an SEO-optimized, high-performance landing page for Jobfornesia in under a month**, achieving **Lighthouse scores of 99–100 Performance, 94 Accessibility, 96 Best Practices, and 100 SEO** across desktop and mobile.
+
+- **Developed and maintained a digital news platform for Inilah.com**, supporting a large media company with **30+ media networks** and **1M+ combined social media followers**.
+
+- **Developed and maintained the DumbWays learning management system**, supporting an education platform with **650+ graduates** while streamlining administrative operations.
+
+---
+
+### Frontend Developer – Next.js
+
+**PT. Cybermantra Perkasa Sumberarta**
+
+Depok, Indonesia (Onsite)
+
+_September 2022 – May 2023_
+
+- **Delivered frontend solutions for 2 no-code application platforms**, enabling startups, enterprises, and government organizations to build visual applications.
+
+- **Developed drag-and-drop functionality for Microgen**, enabling intuitive visual application development for enterprise and government organizations including **e-Meterai**, **DiasporaPeduli**, **Badan Nasional Penanggulangan Bencana** and **Telkomsigma**.
+
+- **Built reusable editor components and scalable frontend architecture**, improving development efficiency while simplifying long-term platform maintenance.
+
+---
+
+## EDUCATION
+
+### BINUS Online Learning — Bachelor's Degree Program
+
+_2022 – 2024_
+
+### DumbWays — Full-Stack Software Engineering Bootcamp
+
+_June 2022 - August 2022_
+
+- Winner of the internal hackathon
+- Graduated with the highest overall score in the cohort
+
+---
+
+## SKILLS
+
+### Frontend
+
+React.js, Next.js, JavaScript (ES5, ES6+), TypeScript, HTML, CSS, Tailwind CSS, Shadcn UI, Material UI, Ant Design, Chakra UI, Bootstrap, LESS, Framer Motion
+
+### Frontend Ecosystem
+
+REST, GraphQL, Axios, TanStack Query, Apollo Client, Zustand, Redux, React Router, TanStack Router, React Hook Form, Zod, TanStack Table, React DND Kit, React Draggables
+
+### Backend (optional, if backend / full stack experience is required)
+
+Node.js, Express.js, Prisma, PostgreSQL, Supabase
+
+### AI Engineering
+
+OpenAI SDK, Groq SDK, MCP Server, Function Calling, Tools, AI Agents, Chatbots, Prompt Engineering
+
+### AI Development Tools (optional, if AI / backend / full stack experience is required)
+
+Antigravity, Cursor, V0, Lovable, Stitch, Figma Make, Claude, ChatGPT
+
+### Testing (optional, if testing experience is required)
+
+Playwright
+
+### Other Tools
+
+Figma, Git, Github, Gitlab, Webpack, Vite, WSL, Docker, Midtrans Payment Gateway
+
+---
+
+## LANGUAGES
+
+- Indonesian (Native)
+- English (Professional Working Proficiency)

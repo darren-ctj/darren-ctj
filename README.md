@@ -1,4 +1,4 @@
-<h1>Hello, I'm Darren Christian! <br/><a href="https://www.linkedin.com/in/darren-christian-t/">Mid-level Software Developer (3+ YOE)</a>
+<h1>Hello, I'm Darren Christian! <br/><a href="https://www.linkedin.com/in/darren-christian-t/">Frontend Developer | 3.5+ Years of Experience</a>
 
 <h2>Who am I?</h2>
 

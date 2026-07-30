@@ -39,13 +39,10 @@ _May 2024 – Present_
 - **Developed customer-facing platforms supporting 1000+ enterprise customers**, delivering responsive user experiences through **React rendering optimization**, **bundle optimization**, and **efficient event handling** using memoization, code splitting, lazy loading, and debouncing.
 
 - **Designed and developed a full-stack AI testing platform featuring an intelligent AI assistant**, automating test creation, execution, and tracking workflows while generating **15+ automated test scripts** through **AI agent architecture**, **agent orchestration**, **context engineering**, **guardrails**, **LLM integration**, **prompt engineering**, and **tool calling**.
-  (optional, if AI / backend / full stack experience is required)
 
 - **Developed an MCP (Model Context Protocol) server** to enable interaction between **Antigravity** and the AI testing platform, while **integrating several GitLab API** to analyze project codebases.
-  (optional, if AI / backend / full stack experience is required)
 
 - **Developed 10+ automated end-to-end tests** that reduced repetitive manual testing efforts and improved regression confidence through **test automation**, **maintainable test architecture**, and **reusable test utilities** using **Playwright**.
-  (optional, if testing experience is required)
 
 - **Collaborated with 18+ cross-functional team members** and **mentored 3 frontend interns**.
 
@@ -110,7 +107,7 @@ React.js, Next.js, JavaScript (ES5, ES6+), TypeScript, HTML, CSS, Tailwind CSS, 
 
 REST, GraphQL, Axios, TanStack Query, Apollo Client, Zustand, Redux, React Router, TanStack Router, React Hook Form, Zod, TanStack Table, React DND Kit, React Draggables
 
-### Backend (optional, if backend / full stack experience is required)
+### Backend
 
 Node.js, Express.js, Prisma, PostgreSQL, Supabase
 
@@ -118,11 +115,11 @@ Node.js, Express.js, Prisma, PostgreSQL, Supabase
 
 OpenAI SDK, Groq SDK, MCP Server, Function Calling, Tools, AI Agents, Chatbots, Prompt Engineering
 
-### AI Development Tools (optional, if AI / backend / full stack experience is required)
+### AI Development Tools
 
 Antigravity, Cursor, V0, Lovable, Stitch, Figma Make, Claude, ChatGPT
 
-### Testing (optional, if testing experience is required)
+### Testing
 
 Playwright
 

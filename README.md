@@ -1,6 +1,6 @@
 # Darren Christian
 
-### Frontend Developer | 3.5+ Years of Experience | React.js • Next.js • TypeScript
+### Frontend Developer | 4 Years of Experience | React.js • Next.js • TypeScript
 
 Phone: +62 881-0271-63631
 
@@ -16,7 +16,7 @@ Location: Surabaya, Indonesia
 
 ## PROFESSIONAL SUMMARY
 
-**Frontend Developer with 3.5+ years of experience** building scalable web applications using **React.js, Next.js, TypeScript** and modern frontend technologies. **Contributed to 20+ software projects**, **developed 75+ pages**, **integrated 150+ GraphQL and REST APIs**, **created 27+ automated end-to-end (E2E) tests** and **delivered applications supporting 1,000+ enterprise customers**. Recognized for building performant web applications, creating responsive UI, maintaining scalable frontend architecture, and collaborating across engineering teams to deliver reliable software that supports business growth.
+**Frontend Developer with 4 years of experience** building scalable web applications using **React.js, Next.js, TypeScript** and modern frontend technologies. **Contributed to 20+ software projects**, **developed 75+ pages**, **integrated 150+ GraphQL and REST APIs**, **created 27+ automated end-to-end (E2E) tests** and **delivered applications supporting 1,000+ enterprise customers**. Recognized for building performant web applications, creating responsive UI, maintaining scalable frontend architecture, and collaborating across engineering teams to deliver reliable software that supports business growth.
 
 ---
 
@@ -28,7 +28,7 @@ Location: Surabaya, Indonesia
 
 Surabaya, Indonesia (Onsite)
 
-_May 2024 – Present_
+_May 2024 – July 2026_
 
 - **Delivered frontend solutions across 12 production web applications** including customer-facing platforms, internal business systems, and administrative dashboards for an enterprise internet service provider.
 

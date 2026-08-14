@@ -84,11 +84,11 @@ _September 2022 – May 2023_
 
 ## EDUCATION
 
-### BINUS Online Learning — Bachelor's Degree Program
+### BINUS Online Learning — Informatics Bachelor's Degree Program
 
 _2022 – 2024_
 
-### DumbWays — Full-Stack Software Engineering Bootcamp
+### DumbWays — Fullstack Software Engineering Bootcamp
 
 _June 2022 - August 2022_
 
